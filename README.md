@@ -1,2 +1,2 @@
 # Devifier
- AI powerered coding challenges with competitive ELO ratings
+ AI powered coding challenges with competitive ELO ratings

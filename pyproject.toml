@@ -1,0 +1,11 @@
+[project]
+name = "Devifier"
+requires-python = ">=3.8"
+version = "0.1.0"
+authors = [
+  {name = "Duarte Caldas Cardoso", email = "caldasdcardoso@gmail.com"}
+]
+dependencies = [
+    "django>=4.2.19",
+    "streamlit>=1.40.1",
+]
