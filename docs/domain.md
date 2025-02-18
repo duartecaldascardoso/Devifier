@@ -28,7 +28,7 @@ Pages to be created
     Playground
     Leaderboard
 
-Initially supported languages:a
+Initially supported languages:
 
     Python
     Java
