@@ -1,6 +1,7 @@
 from django.urls import path
 
+from src.views.create_puzzle_view import create_puzzle
 
 urlpatterns = [
-    # path("submit_form", submit_form, name="submit_form"),
+    path("create_puzzle", create_puzzle, name="create_puzzle"),
 ]
