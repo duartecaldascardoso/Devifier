@@ -4,7 +4,6 @@ Devifier will have the following domain entities:
 
     User: Represents a user of the system. A user has a unique identifier, a name, and a list of challenges that they have solved.
     Puzzle: Represents a puzzle that a user can solve. A puzzle has a unique identifier, a question and answers, difficulty level and more.
-    Challenge: Represents a challenge that a user has solved. A challenge has a unique identifier, a list of puzzles, a user, and a list of answers that the user has given.
     Answer: Represents an answer that a user has given to a puzzle. An answer has a unique identifier, the puzzle that it is related to, the user that gave it, and the answer itself.
     Rating: Represents the rating level of a puzzle.
     Category: Represents the category of a puzzle. A category has a unique identifier, a name, and a description.
